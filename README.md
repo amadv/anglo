@@ -1,4 +1,4 @@
-# anglo
+# ∴ anglo
 
 A **minimal JavaScript framework** with **Angular-style syntax** for declarative and reactive UI development — all without a virtual DOM.
 
@@ -81,6 +81,11 @@ npm install -g http-server
 http-server
 ```
 
+#### Option C: Using PHP 
+```sh
+php -S localhost:3000
+```
+
 ---
 
 ## Roadmap
@@ -91,10 +96,10 @@ http-server
 
 ---
 
-## ✍️ License
+## License
 MIT
 
 ---
 
-Built with ❤️ by [Aaron Madved](https://github.com/amadv)
+Built with <3 by [Aaron Madved](https://github.com/amadv)
 
